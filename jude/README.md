@@ -1,1 +1,1 @@
-script that prints absolute path name of prsent directory
+script that lists content of current directory

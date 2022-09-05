@@ -1,1 +1,1 @@
-script that displays first 10 lines
+script displays first 3 lines of file

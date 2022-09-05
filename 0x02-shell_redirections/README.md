@@ -1,1 +1,1 @@
-script that displays a confused smiley
+script that displays content of /etc/passwd

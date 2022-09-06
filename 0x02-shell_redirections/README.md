@@ -1,1 +1,1 @@
-SCrpt that writes ls_cwd_content
+script that counts directories and sub-directories
